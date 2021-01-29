@@ -1,0 +1,1 @@
+This folder (`largecards/ensembles`) contains largecards for pseudoprospective ensembles (prepared using covidData input) evaluated against "corrected" data as of some analysis date.  The evaluations may need to be overwritten with ones based on uncorrected data.
